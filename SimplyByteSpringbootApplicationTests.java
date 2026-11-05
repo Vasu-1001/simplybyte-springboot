@@ -5,7 +5,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 // Annotations
 @SpringBootTest
 class SimplyByteSpringbootApplicationTests {
-
+//Method
     @Test
     void contextLoads() {
     }
