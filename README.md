@@ -1,1 +1,1 @@
-# simplybyte-springboot projects
+# simplybyte-springboot project
